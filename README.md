@@ -1,4 +1,4 @@
-# MovieComicLookup
+# Movie-Comic-Lookup
 
 MovieComicLookup is a web application that allows users to search for movies and comics, view details, and discover related content. Built with React, this project is ideal for movie buffs and comic fans who want a unified platform to explore their favorite entertainment genres.
 
